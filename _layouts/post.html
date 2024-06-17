@@ -13,7 +13,7 @@ comments: true
   <div class="post-info">
     
     <p class="alignleft">{{ page.date | date_to_string }} · {% assign words = content | number_of_words %}{{ words | divided_by:180 | plus:1 }} min</p>
-    <p class="alignright">Auteur : <strong><a href="https://twitter.com/HackAndDo">{{ page.author }}</a></strong></p>
+    <p class="alignright">Auteur : <strong><a href="https://twitter.com/HackAndDo">{{ site.author }}</a></strong></p>
       <div class="keywords">
         <span class="post-tags">{% for tag in page.tags %}<a href="/archives/#{{ tag | slugify }}"><i class="fas fa-tags"></i> {{ tag }}</a>{% endfor %}</span>
       </div>
@@ -32,11 +32,11 @@ comments: true
 <div class="box">
   <div class="dash">
     <div class="picture">
-      <img src="/assets/icones/pixis_logo.png" alt="hackndo logo" title="logo" />
+      <img src="/assets/icones/avatar.png" alt="cat logo" title="logo" />
     </div>
     <div class="box_content">
-      <strong>Auteur</strong> : <a href="/contact/" target="_blank">{{ page.author }}</a><br />
-      Créateur du blog, suivez-moi sur <a href="https://twitter.com/HackAndDo/" target="_blank">twitter</a> ou <a href="https://discord.hackndo.com" target="blank">discord</a>
+      <strong>Auteur</strong> : <a href="/contact/" target="_blank">{{ site.author }}</a><br />
+      Créateur du blog, suivez-moi sur <a href="https://x.com/lukastaboga" target="_blank">twitter</a> ou <a href="https://discord.gg/gy12" target="blank">discord</a>
     </div>
     
   </div>

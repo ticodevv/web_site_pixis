@@ -42,8 +42,8 @@
 
     <!-- Twitter card -->
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:site" content="@hackanddo" />
-    <meta name="twitter:creator" content="@hackanddo" />
+    <meta name="twitter:site" content="@lukastaboga" />
+    <meta name="twitter:creator" content="@lukastaboga" />
     <meta name="twitter:title" content="{{ page.title }}" />
     <meta name="twitter:description" content="{{ page.description }}" />
     {% if page.cover %}
@@ -53,14 +53,14 @@
     {% endif %}
 
     {% if page.url == "/" %}
-    <link rel="alternate" hreflang="en" href="https://en.hackndo.com">
-    <link rel="alternate" hreflang="fr" href="https://beta.hackndo.com">
+    <link rel="alternate" hreflang="en" href="/">
+    <link rel="alternate" hreflang="fr" href="/">
     {% else %}
       {% if page.translation %}
         {% for lang in page.translation %}
-      <link rel="alternate" hreflang="{{ lang }}" href="https://{{ lang }}.hackndo.com{{ page.url }}">
+      <link rel="alternate" hreflang="{{ lang }}" href="/">
         {% endfor %}
-      <link rel="alternate" hreflang="fr" href="https://beta.hackndo.com{{ page.url }}">
+      <link rel="alternate" hreflang="fr" href="/">
 
       {% endif %}
     {% endif %}

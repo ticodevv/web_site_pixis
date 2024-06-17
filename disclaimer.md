@@ -4,8 +4,10 @@ title: Disclaimer
 permalink: /disclaimer/
 ---
 
-Ce disclaimer (Avis de non responsabilité) tient lieu sur toutes les pages, tous les guides et en général tout le contenu posté par l’auteur sur ce site.
+### Disclaimer
 
-En visitant ce site, en participant et en appliquant ce qui est présenté, vous comprenez et acceptez que :
+Ce disclaimer (Avis de non-responsabilité) s'applique à l'ensemble du contenu de ce site, y compris toutes les pages, articles, et autres publications de l'auteur.
 
-Ce blog est à titre **éducatif** et **préventif UNIQUEMENT**, en aucun cas il n’incite à transgresser les lois. **Aucune réponse ne sera donnée** aux demandes enfreignant les lois françaises. Vous serez par ailleurs les seuls responsables de vos actes et de vos utilisations de ce qui est montré sur ce site. Ni l’auteur ni son hébergeur ne pourront être tenus responsables pour vos agissements, quelles qu’en soient leurs natures.
+En accédant à ce site et en utilisant ses ressources, vous reconnaissez et acceptez que :
+
+Les informations fournies sur ce site sont destinées uniquement à des fins éducatives et informatives. En aucun cas, ce site n'encourage ou ne tolère des actions illégales. Vous êtes entièrement responsables de vos actions et des conséquences qui en découlent. L'auteur et l'hébergeur du site déclinent toute responsabilité quant à l'utilisation que vous faites des informations disponibles ici. Aucune demande visant à enfreindre la loi ne sera prise en compte.

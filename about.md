@@ -4,21 +4,38 @@ title: À propos
 permalink: /about/
 ---
 
-
-Comme beaucoup de personnes, j'ai créé un blog. Oui, mais pourquoi ? Tout simplement parce que je commence à ne plus supporter les innombrables fichiers `.txt` sur mon bureau, ces notes qui s'envolent et que je ne retrouve plus, ces idées en vrac. Mais parmi tout ceci, ce qui m'embête le plus, c'est de me renseigner en profondeur sur un sujet, puis, quelques mois plus tard, refaire exactement la même démarche parce que j'ai oublié ce que j'avais appris, alors que j'aurai pu résumer tout ça au propre une bonne fois pour toute.
-
-Alors voilà, je tente de m'organiser et de regrouper mes idées et connaissances dans ce blog.
-
-Si jamais vous êtes tombé(e) ici par hasard, sachez que je ne prétends pas être une encyclopédie, et mes connaissances seront parfois inexactes. Mais fort heureusement pour moi, vous pouvez laisser des commentaires pour donner vos avis, compléter, critiquer (positivement ou non), corriger mes articles.
-
 # Qui suis-je
 
-Sur les internets, je m'appelle **Pixis**, et je travaille chez [Login Sécurité](https://www.login-securite.com/){:target="blank"}.
+Je suis un étudiant de 20 ans à [YNOV CAMPUS MONTPELLIER](https://www.ynov.com/campus/montpellier), une école spécialisée dans les métiers du numérique . Je suis passioné par les domaines de la Cybersécurité et de l'Infrastructure réseaux.
 
-Vrai passionné qui passe ses jours et nuits sur différents sujets, que ce soit concernant la sécurité informatique (Active Directory ♥, sécurité des smart-contracts), mais également bidouilleur raspberry/arduino/domotique, toujours curieux, et qui aime partager.
+**🚨 Je recherche une alternance dans le cadre de mon BACHELOR 3 INFORMATIQUE qui sera un véritable tremplin en vue de mes objectifs futurs.**
 
-Je vous souhaite donc la bienvenue sur mon humble blog, et j'espère que les articles que vous pourrez trouver vous seront utiles !
+En plus de mes compétences théoriques, j'ai pu acquérir des compétences techniques notamment grâce à mon stage chez [MAGEWEB INFORMATIQUE SERVICES](https://magewebinformatique.com/). Au sein de ce stage, mes missions sont d'effectuer des tests d'intrusion dans des environnements virtuels, de créer des logiciels malveillants et de réaliser des projets hardware. 
+Cela me permet d'explorer ma passion et me conforte dans l'idée de poursuivre dans ce domaine.
 
-Pour me soutenir :
+J'aime aussi beaucoup faire des CTF, en particulier sur  [Hack The Box](https://app.hackthebox.com/users/1412590), [TryHackMe](https://tryhackme.com/p/tabogalukas) et [Root Me](https://www.root-me.org/d0nald).
 
-<script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy Me a Coffee', '#202020', 'F1F78GI6');kofiwidget2.draw();</script>
+En termes de certifications, j'ai actuellement j'ai pour projet de passer `OSCP` `CRTP` `CRTE` `CRTO`
+
+**TryHackMe**:
+- [CompTIA Pentest+ Learning Path](https://www.linkedin.com/in/lukas-taboga-5a8040237/details/certifications/1635547234526/single-media-viewer/?profileId=ACoAADrqd1ABtPE9HFswSOM1xi1FgqiuyZRu22Y) 
+- [Web Fundamentals Learning Path](https://www.linkedin.com/in/lukas-taboga-5a8040237/details/certifications/1635547234543/single-media-viewer/?profileId=ACoAADrqd1ABtPE9HFswSOM1xi1FgqiuyZRu22Y) 
+- [Complete Beginner Learning Path](https://www.linkedin.com/in/lukas-taboga-5a8040237/details/certifications/1635547230732/single-media-viewer/?profileId=ACoAADrqd1ABtPE9HFswSOM1xi1FgqiuyZRu22Y) 
+- [Red Teaming Learning Path](https://www.linkedin.com/in/lukas-taboga-5a8040237/details/certifications/1635547236471/single-media-viewer/?profileId=ACoAADrqd1ABtPE9HFswSOM1xi1FgqiuyZRu22Y) 
+- [Jr Penetration Tester Learning Path](https://www.linkedin.com/in/lukas-taboga-5a8040237/details/certifications/1635547231681/single-media-viewer/?profileId=ACoAADrqd1ABtPE9HFswSOM1xi1FgqiuyZRu22Y) 
+- [Pre Security Learning Path](https://www.linkedin.com/in/lukas-taboga-5a8040237/details/certifications/1635547230783/single-media-viewer/?profileId=ACoAADrqd1ABtPE9HFswSOM1xi1FgqiuyZRu22Y) 
+- [Introduction to Cyber Security Learning Path](https://www.linkedin.com/in/lukas-taboga-5a8040237/details/certifications/1635547232696/single-media-viewer/?profileId=ACoAADrqd1ABtPE9HFswSOM1xi1FgqiuyZRu22Y)
+
+# Mais alors pourquoi se blog ? 
+
+Je pense pas etre le seul a prendre des note sur un peux tout les sujet mais je ne sais jamais ou aller chercher ces dossier mais et impossible de les retrouver. C'est pour cela que j'ai pris l'inisiative de faire se blog car ici je vais pouvoir y mettre des consepte des vulnerablilité.
+
+C'est pour cela que j'ai pris l'inisiative de faire se blog car ici je vais pouvoir y mettre des consepte des vulnerablilité et organiser mes notes.
+
+Alors, sachez que je ne suis pas une encyclopédie ambulante ! Mes connaissances ne sont pas toujours parfaites. Il peut arriver que je fasse des erreurs ou que je sois incomplet.
+
+**Mais heureusement pour moi, vous êtes là !**
+
+N'hésitez pas à laisser des commentaires sur mes articles. Vous pouvez donner votre avis, compléter mes informations, me critiquer (`constructivement, j'espère !`), ou encore corriger mes erreurs.
+
+Votre participation est essentielle pour m'aider à progresser et à devenir une source d'information plus fiable et plus complète.
